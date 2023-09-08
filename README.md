@@ -31,7 +31,7 @@ En résumé, l’organisme “EdStats All Indicator Query” de la Banque mondia
 décrivant l’accès à l’éducation, l’obtention de diplômes et des informations relatives aux professeurs, aux dépenses 
 liées à l’éducation... Plus d'informations sur ce site : http://datatopics.worldbank.org/education/
 ## Construction:
-Dans ce dépôt, vous trouverez plusieurs fichiers:
+Dans ce dépôt, vous trouverez un fichier:
 
 - "notebook.ipynb" : notebook  comportant les analyses pré-exploratoires réalisées.
 
